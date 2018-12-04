@@ -1,0 +1,98 @@
+﻿  main.cpp
+c:\users\mirella\desktop\calibracao_disparidade\main.cpp(157): warning C4244: '=': conversão de 'int' para '_Tp', possível perda de dados
+          with
+          [
+              _Tp=float
+          ]
+c:\users\mirella\desktop\calibracao_disparidade\main.cpp(92): warning C4101: 'j': variável local não referenciada
+c:\users\mirella\desktop\calibracao_disparidade\main.cpp(92): warning C4101: 'i': variável local não referenciada
+c:\users\mirella\desktop\calibracao_disparidade\main.cpp(277): warning C4244: '=': conversão de 'double' para '_Tp', possível perda de dados
+          with
+          [
+              _Tp=float
+          ]
+c:\users\mirella\desktop\calibracao_disparidade\main.cpp(221): warning C4101: 'j': variável local não referenciada
+c:\users\mirella\desktop\calibracao_disparidade\main.cpp(221): warning C4101: 'i': variável local não referenciada
+c:\users\mirella\desktop\calibracao_disparidade\main.cpp(317): warning C4101: 'corrScore': variável local não referenciada
+c:\users\mirella\desktop\calibracao_disparidade\main.cpp(324): warning C4101: 'count': variável local não referenciada
+c:\users\mirella\desktop\calibracao_disparidade\main.cpp(310): warning C4101: 'j': variável local não referenciada
+c:\users\mirella\desktop\calibracao_disparidade\main.cpp(310): warning C4101: 'i': variável local não referenciada
+c:\users\mirella\desktop\calibracao_disparidade\main.cpp(312): warning C4101: 'bestMatchSoFar': variável local não referenciada
+c:\users\mirella\desktop\calibracao_disparidade\main.cpp(311): warning C4101: 'dispCol': variável local não referenciada
+c:\users\mirella\desktop\calibracao_disparidade\main.cpp(311): warning C4101: 'dispRow': variável local não referenciada
+c:\users\mirella\desktop\calibracao_disparidade\main.cpp(420): warning C4101: 'sum': variável local não referenciada
+c:\users\mirella\desktop\calibracao_disparidade\main.cpp(420): warning C4101: 'count4': variável local não referenciada
+c:\users\mirella\desktop\calibracao_disparidade\main.cpp(407): warning C4101: 'corrScore': variável local não referenciada
+c:\users\mirella\desktop\calibracao_disparidade\main.cpp(420): warning C4101: 'count': variável local não referenciada
+c:\users\mirella\desktop\calibracao_disparidade\main.cpp(400): warning C4101: 'j': variável local não referenciada
+c:\users\mirella\desktop\calibracao_disparidade\main.cpp(400): warning C4101: 'i': variável local não referenciada
+c:\users\mirella\desktop\calibracao_disparidade\main.cpp(420): warning C4101: 'count3': variável local não referenciada
+c:\users\mirella\desktop\calibracao_disparidade\main.cpp(402): warning C4101: 'bestMatchSoFar': variável local não referenciada
+c:\users\mirella\desktop\calibracao_disparidade\main.cpp(401): warning C4101: 'dispCol': variável local não referenciada
+c:\users\mirella\desktop\calibracao_disparidade\main.cpp(420): warning C4101: 'product': variável local não referenciada
+c:\users\mirella\desktop\calibracao_disparidade\main.cpp(401): warning C4101: 'dispRow': variável local não referenciada
+c:\users\mirella\desktop\calibracao_disparidade\main.cpp(530): warning C4101: 'sum': variável local não referenciada
+c:\users\mirella\desktop\calibracao_disparidade\main.cpp(530): warning C4101: 'count4': variável local não referenciada
+c:\users\mirella\desktop\calibracao_disparidade\main.cpp(517): warning C4101: 'corrScore': variável local não referenciada
+c:\users\mirella\desktop\calibracao_disparidade\main.cpp(530): warning C4101: 'count': variável local não referenciada
+c:\users\mirella\desktop\calibracao_disparidade\main.cpp(510): warning C4101: 'j': variável local não referenciada
+c:\users\mirella\desktop\calibracao_disparidade\main.cpp(510): warning C4101: 'i': variável local não referenciada
+c:\users\mirella\desktop\calibracao_disparidade\main.cpp(530): warning C4101: 'count3': variável local não referenciada
+c:\users\mirella\desktop\calibracao_disparidade\main.cpp(512): warning C4101: 'bestMatchSoFar': variável local não referenciada
+c:\users\mirella\desktop\calibracao_disparidade\main.cpp(511): warning C4101: 'dispCol': variável local não referenciada
+c:\users\mirella\desktop\calibracao_disparidade\main.cpp(530): warning C4101: 'product': variável local não referenciada
+c:\users\mirella\desktop\calibracao_disparidade\main.cpp(511): warning C4101: 'dispRow': variável local não referenciada
+c:\users\mirella\desktop\calibracao_disparidade\main.cpp(661): warning C4101: 'sum': variável local não referenciada
+c:\users\mirella\desktop\calibracao_disparidade\main.cpp(661): warning C4101: 'count4': variável local não referenciada
+c:\users\mirella\desktop\calibracao_disparidade\main.cpp(640): warning C4101: 'corrScore': variável local não referenciada
+c:\users\mirella\desktop\calibracao_disparidade\main.cpp(661): warning C4101: 'count': variável local não referenciada
+c:\users\mirella\desktop\calibracao_disparidade\main.cpp(633): warning C4101: 'j': variável local não referenciada
+c:\users\mirella\desktop\calibracao_disparidade\main.cpp(633): warning C4101: 'i': variável local não referenciada
+c:\users\mirella\desktop\calibracao_disparidade\main.cpp(661): warning C4101: 'count3': variável local não referenciada
+c:\users\mirella\desktop\calibracao_disparidade\main.cpp(635): warning C4101: 'bestMatchSoFar': variável local não referenciada
+c:\users\mirella\desktop\calibracao_disparidade\main.cpp(634): warning C4101: 'dispCol': variável local não referenciada
+c:\users\mirella\desktop\calibracao_disparidade\main.cpp(661): warning C4101: 'product': variável local não referenciada
+c:\users\mirella\desktop\calibracao_disparidade\main.cpp(634): warning C4101: 'dispRow': variável local não referenciada
+c:\users\mirella\desktop\calibracao_disparidade\main.cpp(785): warning C4101: 'temp2': variável local não referenciada
+c:\users\mirella\desktop\calibracao_disparidade\main.cpp(785): warning C4101: 'count4': variável local não referenciada
+c:\users\mirella\desktop\calibracao_disparidade\main.cpp(772): warning C4101: 'corrScore': variável local não referenciada
+c:\users\mirella\desktop\calibracao_disparidade\main.cpp(765): warning C4101: 'j': variável local não referenciada
+c:\users\mirella\desktop\calibracao_disparidade\main.cpp(765): warning C4101: 'i': variável local não referenciada
+c:\users\mirella\desktop\calibracao_disparidade\main.cpp(785): warning C4101: 'count3': variável local não referenciada
+c:\users\mirella\desktop\calibracao_disparidade\main.cpp(767): warning C4101: 'bestMatchSoFar': variável local não referenciada
+c:\users\mirella\desktop\calibracao_disparidade\main.cpp(766): warning C4101: 'dispCol': variável local não referenciada
+c:\users\mirella\desktop\calibracao_disparidade\main.cpp(785): warning C4101: 'temp1': variável local não referenciada
+c:\users\mirella\desktop\calibracao_disparidade\main.cpp(785): warning C4101: 'product': variável local não referenciada
+c:\users\mirella\desktop\calibracao_disparidade\main.cpp(766): warning C4101: 'dispRow': variável local não referenciada
+c:\users\mirella\desktop\calibracao_disparidade\main.cpp(867): warning C4101: 'corrScore': variável local não referenciada
+c:\users\mirella\desktop\calibracao_disparidade\main.cpp(883): warning C4101: 'count': variável local não referenciada
+c:\users\mirella\desktop\calibracao_disparidade\main.cpp(858): warning C4101: 'j': variável local não referenciada
+c:\users\mirella\desktop\calibracao_disparidade\main.cpp(858): warning C4101: 'i': variável local não referenciada
+c:\users\mirella\desktop\calibracao_disparidade\main.cpp(860): warning C4101: 'bestMatchSoFar': variável local não referenciada
+c:\users\mirella\desktop\calibracao_disparidade\main.cpp(859): warning C4101: 'dispCol': variável local não referenciada
+c:\users\mirella\desktop\calibracao_disparidade\main.cpp(859): warning C4101: 'dispRow': variável local não referenciada
+c:\users\mirella\desktop\calibracao_disparidade\main.cpp(1101): warning C4244: '=': conversão de 'int' para '_Tp', possível perda de dados
+          with
+          [
+              _Tp=float
+          ]
+c:\users\mirella\desktop\calibracao_disparidade\main.cpp(1130): warning C4101: 'corrScore': variável local não referenciada
+c:\users\mirella\desktop\calibracao_disparidade\main.cpp(1123): warning C4101: 'bestMatchSoFar': variável local não referenciada
+c:\users\mirella\desktop\calibracao_disparidade\main.cpp(1207): warning C4101: 'corrScore': variável local não referenciada
+c:\users\mirella\desktop\calibracao_disparidade\main.cpp(1204): warning C4101: 'bestMatchSoFar': variável local não referenciada
+c:\users\mirella\desktop\calibracao_disparidade\main.cpp(1203): warning C4101: 'd': variável local não referenciada
+c:\users\mirella\desktop\calibracao_disparidade\main.cpp(1525): warning C4244: '=': conversão de 'double' para '_Tp', possível perda de dados
+          with
+          [
+              _Tp=float
+          ]
+c:\users\mirella\desktop\calibracao_disparidade\main.cpp(1402): warning C4101: 'corrScore': variável local não referenciada
+c:\users\mirella\desktop\calibracao_disparidade\main.cpp(1914): warning C4244: 'argumento': conversão de 'int' para '_Tp', possível perda de dados
+          with
+          [
+              _Tp=float
+          ]
+c:\users\mirella\desktop\calibracao_disparidade\main.cpp(1889): warning C4101: 'splitInterval': variável local não referenciada
+c:\users\mirella\desktop\calibracao_disparidade\main.cpp(1886): warning C4101: 'rootMeanSquaredValue': variável local não referenciada
+c:\users\mirella\desktop\calibracao_disparidade\main.cpp(1887): warning C4101: 'pixelMatchingBadValue': variável local não referenciada
+  calibracao_disparidade.vcxproj -> C:\Users\Mirella\Desktop\calibracao_disparidade\Debug\calibracao_disparidade.exe

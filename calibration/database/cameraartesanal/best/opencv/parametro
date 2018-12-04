@@ -1,0 +1,15 @@
+StereoSGBM sgbm;
+
+	sgbm.preFilterCap = 63;
+	sgbm.SADWindowSize = 7;
+	sgbm.minDisparity = 0;
+	sgbm.numberOfDisparities = 80;
+	sgbm.P1 = 8 * 3 * sgbm.SADWindowSize * sgbm.SADWindowSize;
+	sgbm.P2 = 32 * 3 * sgbm.SADWindowSize * sgbm.SADWindowSize;
+	sgbm.uniquenessRatio = 15;
+	sgbm.speckleWindowSize = 100;
+	sgbm.speckleRange = 32;
+	sgbm.disp12MaxDiff = 1;
+	sgbm.fullDP = false;
+
+	sgbm(*imageL, *imageR, *imageResult);
